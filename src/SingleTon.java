@@ -1,17 +1,27 @@
 /**
- * Created by Administrator on 2020/3/14 0014.
+ * Created by liuba on 2020/3/14 0014.
+ *
+ * @deprecated
+ * DCL模式 单例模式 Double Check
+ *
+ * 通过同步synchroniozed关键字锁住实例 在多线程下 返回同一个实例 cpu消耗问题
  */
 public class SingleTon {
 
     private SingleTon() {
-
     }
 
-    static SingleTon singleTon;
+    private volatile static SingleTon singleTon;
 
-    public SingleTon getInstace() {
+    /**
+     *
+     * @return 对象实例
+     */
+    public synchronized SingleTon getInstance() {
         if (singleTon == null) {
-            singleTon = new SingleTon();
+            synchronized (SingleTon.class){
+                singleTon = new SingleTon();
+            }
         }
         return singleTon;
     }
