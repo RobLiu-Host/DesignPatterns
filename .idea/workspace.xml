@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b1dbbb3-9e14-4070-ba84-6589a3dd1f65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleTon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleTon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +44,51 @@
       <option name="presentableId" value="Default" />
       <updated>1584179783880</updated>
     </task>
+    <task id="LOCAL-00001" summary="新增DCL单例模式">
+      <created>1584276374077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584276374077</updated>
+    </task>
+    <task id="LOCAL-00002" summary="新增DCL单例模式">
+      <created>1584276390757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584276390757</updated>
+    </task>
+    <task id="LOCAL-00003" summary="新增DCL单例模式">
+      <created>1584276396596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584276396596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增DCL单例模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增DCL单例模式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584179900310">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584179900310" />
-    <state x="342" y="39" key="CommitChangelistDialog2" timestamp="1584276390634">
+    <state x="342" y="39" key="CommitChangelistDialog2" timestamp="1584276396469">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="342" y="39" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1584276390634" />
+    <state x="342" y="39" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1584276396469" />
     <state x="208" y="33" key="SettingsEditor" timestamp="1584179836720">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584179836720" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1584276416341">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1584276416341" />
     <state x="374" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1584179791348">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
