@@ -16,6 +16,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/RobLiu-Host/DesignPatterns.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -65,33 +72,55 @@
       <option name="project" value="LOCAL" />
       <updated>1584276396596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改单例模式的文档">
+      <created>1584277833550</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584277833550</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增DCL单例模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增DCL单例模式" />
+    <MESSAGE value="修改单例模式的文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改单例模式的文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584179900310">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584179900310" />
-    <state x="342" y="39" key="CommitChangelistDialog2" timestamp="1584276396469">
+    <state x="342" y="39" key="CommitChangelistDialog2" timestamp="1584277833436">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="342" y="39" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1584276396469" />
+    <state x="342" y="39" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1584277833436" />
     <state x="208" y="33" key="SettingsEditor" timestamp="1584179836720">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584179836720" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1584276416341">
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1584277895670">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1584276416341" />
-    <state x="374" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1584179791348">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1584277895670" />
+    <state x="374" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1584364273816">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
+    <state x="374" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1584364273816" />
     <state x="374" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1584179791348" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584179846079">
       <screen x="0" y="0" width="1440" height="900" />
