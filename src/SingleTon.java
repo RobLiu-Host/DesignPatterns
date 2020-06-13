@@ -1,7 +1,6 @@
 /**
  * Created by liuba on 2020/3/14 0014.
  *
- * @deprecated
  * DCL模式 单例模式 Double Check
  *
  * 通过同步synchroniozed关键字锁住实例 在多线程下 返回同一个实例 cpu消耗问题
